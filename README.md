@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning and solving `DSA` problems and exploring new `web development` technologies and libraries.
 <!-- - 👨‍💻 Checkout my [Personal Portfolio](https://ritikkumar-portfolio.vercel.app/) -->
-- 💬 Ask me about `C++/C` `MERN Full Stack` `DSA`
+- 💬 Ask me about `C++/C` `FullStack[MERN]` `DSA`
 - ⚡ In my free time I solve problems on Leetcode, GFG, Codeforces & Codechef and learn something new.
 - 📫 Feel Free to reach out me on : **alokmaddheshiya0010@gmail.com**
 
