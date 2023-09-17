@@ -62,7 +62,7 @@
 <p align="center">
   <picture>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=being-nitin&show_icons=true&theme=cobalt"></img>
+        <img src="https://github-readme-stats.vercel.app/api?username=alok8756&show_icons=true&theme=cobalt"></img>
      </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=alok8756&show_icons=true" /> -->
 </picture> <br><br>
