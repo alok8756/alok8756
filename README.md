@@ -25,10 +25,10 @@
 
 <h3 align="center">👨‍💻Coding Profile:</h3>
 <p align="center">
-<a href="https://leetcode.com/alokmaddheshiya0010/" target="blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"></a>
-<a href="https://www.codechef.com/users/alok_0010" target="blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef"></a>
-<a href="https://codeforces.com/profile/alok_8756" target="blank"><img src="https://img.shields.io/badge/Codeforces-%2339457E.svg?logo=codeforces&amp;logoColor=white&style=for-the-badge" alt="Codeforces"></a> 
-<a href="https://auth.geeksforgeeks.org/user/alokmaddheshiya0010" target="blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"></a>
+<a href="https://leetcode.com/alokmaddheshiya0010/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"></a>
+<a href="https://www.codechef.com/users/alok_0010" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef"></a>
+<a href="https://codeforces.com/profile/alok_8756" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%2339457E.svg?logo=codeforces&amp;logoColor=white&style=for-the-badge" alt="Codeforces"></a> 
+<a href="https://auth.geeksforgeeks.org/user/alokmaddheshiya0010" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"></a>
 
 </p>
 
